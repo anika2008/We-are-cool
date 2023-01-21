@@ -1,0 +1,7 @@
+print("Welcome to Knockout")
+print("Here is the set of rules and instrctions: ")
+print("You can use WASD or the arrow keys to move you character")
+print("Special moves can be activated with the K key")
+print("You can customise your charaters")
+print("Once joined a game, leaving will lead to instant defeat")
+print("Players will be playing against a bot so the game can be paused")
